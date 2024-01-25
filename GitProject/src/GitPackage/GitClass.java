@@ -8,7 +8,8 @@ public class GitClass {
 		public static void main(String[] args) throws Exception {
 			
 			System.out.println("Hello Maven");
-			System.out.println("Hello Shammi");
+			
+			
 	}
 
 }
