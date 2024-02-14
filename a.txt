@@ -1,2 +1,2 @@
 Hellow Jagdish
-Hellow this line is updated from remote repository using edit botton and clicked on commit changes
+Hellow this line is updated from remote repository using 'edit' botton and clicked on "commit changes" button
